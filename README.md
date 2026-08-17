@@ -1,8 +1,10 @@
-# FruitRipeness
+# Non-destructive-fruit-ripeness-analysis-using-fluorescence-spectroscopy-and-RGB-image-processing
+
+
 
 ## Overview
 
-FruitRipeness is a data analysis project focused on non-destructive
+This is a data analysis project focused on non-destructive
 assessment of fruit maturity using fluorescence spectroscopy and RGB
 image analysis.
 
